@@ -1,7 +1,8 @@
+
 # 🌱 Plant Shop
 
 A simple **Plant Shop web application** built with **React**.
-This project allows users to explore plants, view details, and add them to their cart. It also demonstrates usage of key **React Router hooks**, **Context API**, and **Axios** for data fetching.
+This project allows users to explore plants, view details, and add them to their cart. It also demonstrates usage of key **React Router hooks**, **Context API**, **Axios**, and includes a **dark/light theme toggler** for better user experience.
 
 ---
 
@@ -12,7 +13,8 @@ This project allows users to explore plants, view details, and add them to their
 * 🔄 **useLocation, useNavigate, useNavigation** hooks in action
 * 🌍 **Context API** for global state management
 * 📡 **Axios** for API/data fetching
-* 📱 Responsive UI for better experience
+* 🌗 **Theme toggler** (Dark & Light mode)
+* 📱 Responsive UI for all devices
 
 ---
 
@@ -83,6 +85,7 @@ While building this project, I practiced:
 * Fetching data using **Axios**
 * Building a shopping cart system
 * Handling routes and protected navigation
+* Implementing a **dark/light theme toggler**
 
 ---
 
@@ -106,4 +109,6 @@ Feel free to fork this repo and submit a pull request.
 
 This project is licensed under the **MIT License**.
 
-
+--
+Project screenshot ![Home Page](./src/assets/image.png)
+Project screenshot ![Small Device](./src/assets/screenshot.png)
