@@ -25,52 +25,14 @@ This project allows users to explore plants, view details, and add them to their
 * **Context API**
 * **Axios**
 * **Hooks (useLocation, useNavigate, useNavigation, useContext, useState, useEffect, etc.)**
-* **Tailwind CSS** (if used)
+* **Tailwind CSS** 
 
 ---
 
-## 📂 Project Structure
 
-```
-plant-shop/
-│── src/
-│   ├── components/      # Reusable components
-│   ├── pages/           # Page-level components
-│   ├── context/         # Context API for global state
-│   ├── App.jsx          # Main App component
-│   └── main.jsx         # Entry point
-│── public/              # Static assets
-│── package.json
-│── README.md
-```
-
----
-
-## ⚡ Installation & Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repo-link>
-   cd plant-shop
+   ```Live link```
    ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open in your browser:
-
-   ```
-   http://localhost:5174
+   https://green-earth2025.surge.sh/
    ```
 
 ---
@@ -97,17 +59,6 @@ While building this project, I practiced:
 * Improve UI/UX with animations
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 --
 Project screenshot ![Home Page](./src/assets/image.png)
